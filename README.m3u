@@ -25,7 +25,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Refe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
+https://rcti-linier.rctiplus.id/hdntl=exp=1747198228~acl=%2F*~data=hdntl~hmac=bb2e38fca8a066264100192f99aaa79d78f36a489c82350fa5f088e5d281a2b4/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8?hdnts=exp=1747180228~hmac=50dda7383c579d142c1c6c961b477a9f5e2afd1555b59239c5af520ef18b3cd8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="Indonesia",RCTI HD R+
 #EXTVLCOPT:http-user-agent=android-R+
